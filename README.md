@@ -1,6 +1,7 @@
 # Spring Boot, Data, Security and Docker Demo
 "Spring Boot, Data, Security and Docker Demo"
 
+API functions can be imported to Postman by using "API Demo 1.postman_collection.json".
 Final Product requires External MySql Database.
 Install Docker For Mac/Windows/Linux
 #### Docker Commands
